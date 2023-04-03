@@ -40,4 +40,3 @@ app.MapControllerRoute(
 app.Run();
 
 
-//options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString"))
